@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\liamp\\Documents\\Unreal Projects\\Collector\\Source\\Collector\\Collector.Build.cs",
+		"C:\\Users\\liamp\\Documents\\Unreal Projects\\Collector\\Source\\Collector.Target.cs",
+		"C:\\Users\\liamp\\Documents\\Unreal Projects\\Collector\\Source\\CollectorEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.0"
+}

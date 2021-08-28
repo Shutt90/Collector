@@ -1,0 +1,2 @@
+C:\Users\liamp\Documents\Unreal Projects\Collector\Intermediate\Build\Win64\UnrealEditor\Development\Collector\Definitions.Collector.h
+C:\Users\liamp\Documents\Unreal Projects\Collector\Source\Collector\Collector.h

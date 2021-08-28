@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Collector",
+			"Path": "C:\\Users\\liamp\\Documents\\Unreal Projects\\Collector\\Source\\Collector.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CollectorEditor",
+			"Path": "C:\\Users\\liamp\\Documents\\Unreal Projects\\Collector\\Source\\CollectorEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
